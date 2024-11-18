@@ -1,0 +1,5860 @@
+fileFormatVersion: 2
+guid: 2aeb0dd45c99f9641bd2cec3f98cb3c1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ssonic_no_bg_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 430
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83469619e95a3404494f5306fb62e18e
+      internalID: -1310219795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 430
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7e31aee6c5d6e408b104aa6bf93a7d
+      internalID: -223041455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 430
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35bbed55fcaaa14a815a7ae63ad657a
+      internalID: 1703950082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 430
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74a8a8aec120b946a35ad4606cd9153
+      internalID: 33290294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_4
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 430
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cced4045815d2ee43beb45f6f21e2421
+      internalID: -1223624780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_5
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 430
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2736918640286e846961ff5ec5542868
+      internalID: 1936804924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_6
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 430
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76c9fab230167a4fab7a0f4127dbece
+      internalID: 1215878804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_7
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 430
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcf89df5f0d9b94abfd05a53b433d9b
+      internalID: 1288698536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 430
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295f9d5daad10554babc3fee5fe1ae4f
+      internalID: -718080230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_9
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 430
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a12762d19a02c64c8afc667d2be758e
+      internalID: -498030931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_10
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 430
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a8d0bbda4f0054b8463fd32ac79b25
+      internalID: 377754190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_11
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 430
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de011fa7b6c5cb04c933edaad2daac6b
+      internalID: 1643310979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_12
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 431
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc86c4b2edd16b4dac59da9a552e9bc
+      internalID: -1509748437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_13
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 430
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f41439eb57f674d90389e44ff0d7c7
+      internalID: 1816493278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_14
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 430
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87be0b9177acfce48865efa07a79d1f0
+      internalID: 51756424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_15
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 430
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db554c259b0b9349a67b72616cf6fa6
+      internalID: 177795013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_16
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 430
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8053bbb4f310474e8788b2ef9733ebe
+      internalID: 652286818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_17
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 430
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cc406cc59810c459921c64f5c8109c
+      internalID: 828447936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_18
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 430
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e398157e7c6d8e499486e9773888538
+      internalID: 806496972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_19
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 430
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a4af366b7434d4cb386adb6858815d
+      internalID: -843531338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_20
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 430
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25289ac61cd65644a992f8d38e8330a6
+      internalID: -2059003879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_21
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 430
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d47bf3025de02342911557f0b16a891
+      internalID: 1184007980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_22
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 430
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403b8671d68d1c34a90d2d8484adf9ab
+      internalID: -1806643237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_23
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 430
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b046572b58e5906458b8ac15df07fc5e
+      internalID: 675162022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_24
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 430
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1849d5a4456f87b4e92bafd817bef3d7
+      internalID: 2040073518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_25
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 430
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e8309dd4c58914faf9c7a2cb73d009
+      internalID: 394502851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_26
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 430
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf0dcdb7819201478fa7ed8b0c54ffe
+      internalID: 1340960563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 390
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c32d297cb8c8449aff63baeff5990e
+      internalID: -1482316444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_28
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 390
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cffb8f22dd2d34aa428c7d837cd36c
+      internalID: -283456651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_29
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 390
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0b5c9aaf1533f4d8cd943861d1489c
+      internalID: -1278443047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_30
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 390
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dec53bcdd8e41441af75af471d9bb55
+      internalID: -791704523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_31
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 390
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b68d3821d613143b0875ada9def9e5
+      internalID: 2007187564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_32
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 390
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec34df2261101b4387a297bca4cc549
+      internalID: 1465346180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 390
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47237f49d35ce064db89956c1abca478
+      internalID: 1385549177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_34
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 390
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2657892c29bd714caabd85ab049022a
+      internalID: -1166295737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_35
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 391
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0236d60341d40c64dbce7494a2603a0a
+      internalID: -1938716817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_36
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 391
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4d0e01e2cabf5469900bea12189891
+      internalID: -1386585964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_37
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 388
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2663eaa389281c44f851c59a556af9b1
+      internalID: 512673316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_38
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 388
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0e03da30356394aaa7808671deceeb
+      internalID: -381512910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_39
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 388
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e00f2352bf7a5a42afacb711bb64fd7
+      internalID: 677547276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_40
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 388
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0abe462cae3154191b37306e793bc0
+      internalID: 522544976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_41
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 388
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92d08754675aa444a21641fc0bc5b46
+      internalID: -2101014070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_42
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 388
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292d4c484c2639a408f37842051b213d
+      internalID: 624508942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_43
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 411
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cf95dd0c2612a40b599b365e3b1bb0
+      internalID: -1050201100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_44
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 388
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be2ba75c83d62c4394abb4cc3f353e0
+      internalID: 779047380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_45
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 411
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c7f27b9733e3f449e0f9f95e833bea
+      internalID: -153762079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_46
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 388
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63854d3c32a494744b281118e64f30a9
+      internalID: -1054203001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_47
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 411
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135d621b96f5505438042847efa246e5
+      internalID: -1682928603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_48
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 388
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95ec2fcc6712444da6e5bfcb60fb944
+      internalID: -1032174942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_49
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 411
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88481f7a6424bce4ab5e763d9046f585
+      internalID: -436707467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_50
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 386
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d288d5c65d839fe48b67ff0f3a065004
+      internalID: 693496423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_51
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 386
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a888670f56b58154f9926860104e7632
+      internalID: 1141401813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_52
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 386
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce9aeb68306e96418d173c71f7b59ea
+      internalID: -1838202687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_53
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 386
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049536418fc61aa46bf558d73271207a
+      internalID: 1659056181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_54
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 338
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0ba1cbc68c8f647ac50b6fe31bb42a
+      internalID: 1079640877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_55
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 338
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7463ea6b4bd521e4e8af54b5c4d75445
+      internalID: 893505733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_56
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 338
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280a5151017dd90458752a4e3d3a10fb
+      internalID: 1645847432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_57
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 338
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858fb046ea241d1428b063ee55aa541f
+      internalID: 63713017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_58
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 338
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad0f582c63fb7647832fb34573a6322
+      internalID: 442071587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_59
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 338
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e9db62e330fcd46b59f542b8b703e0
+      internalID: 2048463389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_60
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 338
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88049628a4b40fc4a92be1fa1c6255e3
+      internalID: -1701960479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_61
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 338
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8961fb59c58584a9adfac82df5a461
+      internalID: -971758874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_62
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 338
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd3449139126b7438bc2775540355bb
+      internalID: -1020620890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_63
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 338
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3733130bcdf4440856b608f9527704
+      internalID: 1144863532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_64
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 339
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2cb97514bfb324d8598a88bd6152e2
+      internalID: -2019066187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_65
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 338
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6d6c30b00b17b4eb077b2d69baf46a
+      internalID: -1888892641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_66
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 339
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ab3cc4cd2614a44987b5264f13b985
+      internalID: 1347059266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_67
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 342
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d519149a5f2de4a821f327537b63e8
+      internalID: -1543069990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_68
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 342
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b464c7e56b508c42a619238957a8458
+      internalID: 1283985803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_69
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 342
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cb4325db42d8d41b480d037172541e
+      internalID: 1449167975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_70
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 338
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d07531b0f50d9644a3b554e6e8397c8
+      internalID: 954875097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_71
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 339
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966018dad9d58e741989300146074390
+      internalID: 81430529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_72
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 338
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d2ecc741b67504a8e53e2b425c8d9a
+      internalID: -437064417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_73
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 338
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f421f7b23398e12499721f5351a72c9b
+      internalID: -470732096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_74
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 339
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4f563aba32fa44a8c49bab3dad8c1b
+      internalID: -806104119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_75
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 338
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdaa902393f912140ae26f97ad973ae6
+      internalID: 1224806272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_76
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 338
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2b6477bb497b047b839f140c994804
+      internalID: 1176949146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_77
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 338
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdfeb6a5cc8c4742aab66ee65fb439f
+      internalID: 643835809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_78
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 338
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dedc3301dd4454bb775285d5212a3e
+      internalID: 697185817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_79
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 339
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6649f92bb1f67e44696c481ca1975618
+      internalID: 1283629793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_80
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 339
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fcb0c32c8cb224b983a285771bf250
+      internalID: 61004750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_81
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 295
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaa3a6546c2c5e40b9efbb16171927c
+      internalID: 346835863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_82
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 295
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3d95c0c8c557d40aa5bde51b850003
+      internalID: -1467557033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_83
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 294
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6bedff4fb3499419560738a34ac6ad
+      internalID: -1862491559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_84
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 294
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1934247bc7b923a41b93ca2baa06a0a0
+      internalID: 560166854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_85
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 294
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d1f7e6168ad204ebb513853ec08ffb
+      internalID: -169331457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_86
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 296
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2a3aa6d3cbc0a47b2b184704fad3e8
+      internalID: 185380989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_87
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 295
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c48b14e4875dfd4c9dc2af4a2dee44c
+      internalID: 1580336319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_88
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 295
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc021558afd0dec40bd30b8f5a1f8b75
+      internalID: 1377124276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_89
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 295
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415a1c1de5b956542b4168c8b814b499
+      internalID: -1145350613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_90
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 294
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c84f8957f39cf4993ca78088f23a20
+      internalID: -1093598721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_91
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 294
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50cc08a5c0a2f1459127356a3c2b6f8
+      internalID: 1081883445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_92
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 294
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609921bf495af24438eba63915dc9cc5
+      internalID: -1507778932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_93
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 294
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f0eb16bff437a40a841e9b05a777ac
+      internalID: -247036303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_94
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 294
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0631e8ec851daf4f99fc8df87fb2d07
+      internalID: 1106703646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_95
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 295
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3816ab80b6b814fb4a64b15148d884
+      internalID: -877092846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_96
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 295
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7870384901e0d469d38381d33a8a17
+      internalID: -504257306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_97
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 294
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be6f88fa1ed20b47a110ae49aff575f
+      internalID: -796895201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_98
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 294
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65db6b72ddccc74eae5c208c8341138
+      internalID: -1447411769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_99
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 294
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd780da3bdceb824683182600e791aa3
+      internalID: -1279676244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_100
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 294
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ea25d3e0f6bac44bc6ae273bd07e10
+      internalID: 309596970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_101
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 294
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed26d5714c062b2408665ff8f156061a
+      internalID: -1517208499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_102
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 294
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76328f7e7a97f004cb3e9775eace33ef
+      internalID: -1733257410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_103
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 294
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a785eba5fbd254ebad0a28ab38930d
+      internalID: 1228003718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_104
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 251
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14a5e393cea9f346b3d0b7e63f156a1
+      internalID: 816097858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_105
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 250
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfa5c26bad0a4a4d8d742ab991ca200
+      internalID: -774811589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_106
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 251
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6c34275fec2b94f9a5cea6f6c80aec
+      internalID: 42973720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_107
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 250
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea6a2d27bca2a74d9a3b18c141c287b
+      internalID: -2019620418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_108
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 250
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ae948535de9954cbe8b42aa50f5732
+      internalID: -2121056421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_109
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 250
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47282e7d08d9d114bbba5bfde14f9a84
+      internalID: 1116306301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_110
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 250
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819f4c19a2479944cab5412cded1b3d5
+      internalID: 1944626019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_111
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 251
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95f5f06130139e4b86a17f5228856dc
+      internalID: -1731915038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_112
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 250
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2576b011e93e28344ab410479c418eec
+      internalID: -238738103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_113
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 250
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cbaf85ca5154444b22d4b60d506d4e
+      internalID: -1859192261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_114
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 251
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388b9724ed4d9c44fb86d4ce33fef0e8
+      internalID: 1760092385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_115
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 250
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa2337edf09da149aab31ea0669d2b9
+      internalID: -554355042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_116
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 250
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f3e69cc6837b244ac14c0b39a4bb9a
+      internalID: -1317164474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_117
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 250
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72032297378fa32499af4444f06d3d88
+      internalID: -1814642254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_118
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 250
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd844d11177907a48a2e51e67a53125c
+      internalID: -1184660102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_119
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 251
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d576f8c70b93094468cb63c4254fe17d
+      internalID: -624769403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_120
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 251
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb318f36bd3b2624d9e8d20e215e948d
+      internalID: 240339814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_121
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 251
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f36874f88e1f145b3054d0efc626f1
+      internalID: 249673623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_122
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 251
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63586d3fb8e4b614886ada61a27fa341
+      internalID: -581496881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_123
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 250
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9e30b910b7a234ab6c6bb9a1bd5489
+      internalID: 1508412427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_124
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 250
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46f34c1bf3604e4597b7c15fa63caed
+      internalID: 293845795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_125
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 256
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe744c4c9b577b4b81bf5eb7d167061
+      internalID: 839489355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_126
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 256
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1f09e47edc0f142bfca64cfdecccb7
+      internalID: 2064885216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_127
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 256
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4efccf22d14227478937013d95b717e
+      internalID: -1488146570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_128
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 256
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfad4f6da64f3e408de8a4a11a58969
+      internalID: 1308620537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_129
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 256
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a59dd1064ce6e48b188947d9d9faee
+      internalID: -2044755247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_130
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 212
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8729d7c2220e2f459cdc45e51166e96
+      internalID: -798724478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_131
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 212
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec15b48efbbaccb47b588e6d3e9ef89c
+      internalID: -456394759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_132
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 212
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd26db3cdffae34c836d1cd6490661a
+      internalID: -28993980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_133
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 210
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d5ac23e2058c749994e496097fd1c0
+      internalID: 705692907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_134
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 211
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfc30e75f038e64980c13aa27cc099f
+      internalID: -1762440797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_135
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 210
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7e8798e98d826459a56b1695b46f65
+      internalID: -14279743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_136
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 209
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da55de735fa3a424ba2949de279d25ad
+      internalID: 302530825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_137
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 206
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415fd385aca79ba4a8c70b5a83c97608
+      internalID: 1427284980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_138
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 206
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26e85a589b7b1a4b8792551caaabd6f
+      internalID: 580069896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_139
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 206
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ef6c4e44e4b604d91a8ffccbdb501f
+      internalID: 363962702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_140
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 206
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828038ac07688d248918a3696a4d90a6
+      internalID: -54873818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_141
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 206
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4210ff58018bd7649ab9fc6cf2d2f2ae
+      internalID: 1898962198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 206
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976e69c84d49fe7498a95c6a9becb8aa
+      internalID: -1666691171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_143
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 207
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99864737eef3fca449d540c3486a708b
+      internalID: 941513083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_144
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 208
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f0e720696166045969ded6874eb16a
+      internalID: 1902075372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_145
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 208
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc2fb4ddc49d534689543fd5730cd53
+      internalID: -901958037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_146
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 207
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6630a05f6c8af124a91a0d8b408dbeae
+      internalID: 519947310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_147
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 206
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a503dbb1617d7c848ad1ef0a03182138
+      internalID: 1388920156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_148
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 207
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8134e67a6be5848943c7aa871ae46d
+      internalID: 214364771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_149
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 207
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa242c7b295dbf45bf30adf9e727332
+      internalID: -1028572390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_150
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 206
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39ab300ba99f49448366007ef241ea4
+      internalID: 1111864136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_151
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 206
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421713ffb50bc444d892ed76d3ad7cc6
+      internalID: 716229323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_152
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 206
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553337292ad46aa4dacfa60d7358ab74
+      internalID: -1148652155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_153
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 206
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40cc8399f7ab6f40a4273d026df2dfa
+      internalID: 214708488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_154
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 206
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e9e6d581b8fa3488e0c1fb3bc0c3f9
+      internalID: 1308058279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_155
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 206
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb250a1d436fbd4c8cc74ee1456d310
+      internalID: 1918533346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_156
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 206
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7923de1b667dc784499de7a9ba6caba7
+      internalID: 237700594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_157
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 206
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8316182fe0b8f6499d63dd1c518d1bf
+      internalID: 1197320362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_158
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 154
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc8d49df2dceca4a91d4069dea64602
+      internalID: 1408474421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_159
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 154
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ab9d93d8fb5b5469294ce42b048197
+      internalID: 1894470406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_160
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 154
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c31c0cb79c60d45b43f480a69c3148
+      internalID: 1513393031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_161
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 154
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649ed0ee8d6f8754da30e66cd3566d7b
+      internalID: -1852060950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_162
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 154
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d906f4a4d23e3648aa75747eb7b49ad
+      internalID: 666281451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_163
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 154
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f7e96e12d774d42946ce30287dff40
+      internalID: 1224993105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_164
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 154
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e2958314fe7c14aaaa0c96ac82036c
+      internalID: -1020065284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_165
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 154
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83eba8ce3130ae04a9d6d77ce910eeb2
+      internalID: -1897446833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_166
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 155
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1743593b2a76e194fbee6dc1f5cd93dc
+      internalID: -314903453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_167
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 157
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92baf8486c2c5064aae8de41f6d0c36d
+      internalID: -656327786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_168
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 156
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89aea26fad78e14b944e004865290d4
+      internalID: -1405636551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_169
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 157
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8adfad649cd8db4783268756b196742
+      internalID: -608819664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_170
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 154
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7458bd0514e00844acd0094ef9baeac
+      internalID: -1760960723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_171
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 156
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acc1e751aa84414c98ac4058eab11c5
+      internalID: -1479404880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_172
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 159
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f464f3868da3845974f685cb5917ed
+      internalID: 1930188883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_173
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 156
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e2fa730e68c9f4b82be33ba3b5de61
+      internalID: 361931998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_174
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 156
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0a1b7c162d1704faf4d5e32c244837
+      internalID: -1623619886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_175
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 156
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fc86997701a6d40ae625fdaf720858
+      internalID: 933797663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_176
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 154
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28e6f920420f2d4c988b2276cf8216c
+      internalID: -188580888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_177
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 154
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25377812a520a9e40938f581a9d566a0
+      internalID: -29350342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_178
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 154
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c5c80556984c4479c710d8b3cd68bf
+      internalID: -502795221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_179
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 154
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45696a3ab8fd05448ea86ce3a59bb12
+      internalID: -1541422382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_180
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 154
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6505884eb75e8fc4bb6e923fc6fa71d2
+      internalID: 371145342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_181
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 155
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e44a3e69b88fc4da460e99749623b6
+      internalID: -485706838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_182
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 155
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b947e5f6386f974ba0429f693e7a65b
+      internalID: -1684507987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_183
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 157
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112712e8d52fdca40ba65f09c35b2eeb
+      internalID: -1335017012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_184
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 158
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165a247ebf837a5428f7c230e274a0ca
+      internalID: -323131326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_185
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 111
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e08814fe342d644b94f96a0691b4eb1
+      internalID: 501445039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_186
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 111
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6794287d0048b4da2915d60feddf85
+      internalID: -948764925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_187
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 111
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf7fffaedaf94c4882963f53c2d5705
+      internalID: -967216377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_188
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 106
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f430949218bf267418afa885a7302de1
+      internalID: 73502757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_189
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 106
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d683f3fe4ade19849bc391158261b7c4
+      internalID: 1927646744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_190
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 106
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b8112dd93d1d8408fb2460dac10560
+      internalID: -2055852772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_191
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 106
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e4f5178f751d44a99fd2fa61f9ee0f
+      internalID: 29477627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_192
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 106
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4689b79a9264dc141ac93df060051805
+      internalID: 1152056798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_193
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 106
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4227d2472f3ed5c439655f022010a116
+      internalID: -176080165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_194
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 106
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16ed55cac5a58f409407df2cb9d05b2
+      internalID: 1478828640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_195
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 108
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c956a547633e5845a7dff19f2384283
+      internalID: -1968445076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_196
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 108
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f4c607f69b8ea4e8d84bdb98629d0e
+      internalID: -1944793487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_197
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 107
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6246e32dda41a4f8d5c3e4e54dbb74
+      internalID: -1754203905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_198
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 107
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382fbc1e1e694fc4f9df8e5ada0d0d80
+      internalID: -901641360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_199
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 107
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a686391a5079fcf4eb867c00a552f55c
+      internalID: 1459871899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_200
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 109
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019280d96a92ea94aa984869b8f376d0
+      internalID: 881440463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_201
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 112
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bad7f3bbc1c2e47a8493218a48f66c
+      internalID: -1165670473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_202
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 114
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e926e1b4b84174bab81e9f279ad85a
+      internalID: -656979101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_203
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 123
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7eb46a80a647c40a8a5f47ec236af7
+      internalID: -1842141750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_204
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 133
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fbf8d700b285a4ca7f7dcb49f267bd
+      internalID: 107018210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_205
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 114
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff717c15bdaa00946b7957b27d73e4ef
+      internalID: 343223537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_206
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 114
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84013068c9687c545a32e08685401d13
+      internalID: 1901534165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_207
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 115
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cca3332e884e204993b3cbe2e65de60
+      internalID: -1730913602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_208
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 109
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6519a81f744e0244f9392d10ec31de82
+      internalID: -371632804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_209
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 110
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817ce75ef3ff10d438b4a6bb19b8d17a
+      internalID: -683831831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_210
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 112
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aec2aab80b59b545a2dcd80de644103
+      internalID: 1070756739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_211
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 106
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a657236ff75eb744a054a7aef35d96b
+      internalID: -1735080124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_212
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 106
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0e9732f48dc444a9875e97df17052a
+      internalID: 1816339478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_213
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 112
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b765e3b0558449e4684f86aca9fe96eb
+      internalID: -70598002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_214
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 107
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847c9d6da4fc9784d9bef1d09571d8bb
+      internalID: -1330832030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_215
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 62
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658ca0ab9661f914c8b41b8c2f318348
+      internalID: 1146442857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_216
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 62
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872ec8ff475af544da13e31f80d9ee88
+      internalID: -1941542891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_217
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 63
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb02b033ff8ca8b4c8efc4158420a780
+      internalID: 656140884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_218
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 63
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d0a21b4ff9a4242aa8e3f904d29806
+      internalID: 349868110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_219
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 62
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1c1e7b80a59bd4bb37b03dc8ee879a
+      internalID: -573603487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_220
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 62
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3deb832049bef114f921e5f38f13dd46
+      internalID: -772787840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_221
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 62
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda2a353db9eab4438a2c52e16b74fe0
+      internalID: -1022910204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_222
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 62
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f547ac2537736448f09ad5e667314a
+      internalID: -1848527715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_223
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 62
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3a0d06dad2f7344b9707fbdc776212
+      internalID: 715350072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_224
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 62
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e01daaf469e20a41af171746fbf162c
+      internalID: 1349991448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_225
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 62
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b0229bad7e49341ae54cf6b7fa0cd8
+      internalID: 374518680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_226
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 62
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a0b299a9e29854cb21982a292c93d8
+      internalID: -123090892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_227
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 62
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c271df3dc105243a43b4a5b5393c40
+      internalID: 693934014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_228
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 62
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8885690557593444aa75cc1e707feeb
+      internalID: 683436089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_229
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 62
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acc414fea0887d419d6e0fbe9e08df2
+      internalID: -1104130557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_230
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 62
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a6c62eab0581642b253c2b81ef4fea
+      internalID: 311967610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_231
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 62
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7d484d77489f74fb08a903399fe39f
+      internalID: -102185583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_232
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 62
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0771f48473ed2f94fa23d3926c58ca7a
+      internalID: 592791202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_233
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 62
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3158d56d28031424482828ddaaf0fdeb
+      internalID: 870556635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_234
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 62
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d1df600a77a5a4fb61fa3434ca92ba
+      internalID: 1584497981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_235
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 62
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4131eb0304ff4814294fe359bd59e762
+      internalID: -2050739339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_236
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 62
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6836314308f51474e9616f1f92863553
+      internalID: 1909721185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_237
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 62
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb481d7b2ebcfe34ca27b23f10761fee
+      internalID: -312997133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_238
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 62
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058f0033055b96a45931769ac24725d0
+      internalID: 1941210493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_239
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 10
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ec8d78895d9f745a61ab164fe82abb
+      internalID: 659206785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_240
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 17
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c833c4df7b91fc849bf472337adce703
+      internalID: -1226930119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_241
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 16
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f8ef921e8fa864e9b6490462bd9e82
+      internalID: 405267645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_242
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 10
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62344f9e34004b41b576ea60e43947b
+      internalID: 1575080325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_243
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 10
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a9abff4c584224baa6a6934885b6a9
+      internalID: -870881141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_244
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 18
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5222649d9b075e34b8a39af0e7370fdc
+      internalID: -731822551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_245
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 11
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a63cce5b0023946b3c462bfa4192a9
+      internalID: 1327729027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_246
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 11
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f178fe7311b90641a7da961c3111710
+      internalID: -1680071815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_247
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 11
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5b34e80f9732240b28e6be208f09ee
+      internalID: -1540863795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_248
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 11
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384f4e742df1011468a46af2a4758ce6
+      internalID: -1285934399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_249
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 11
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f194fcdc28c5f409a449aa0e5b63ba
+      internalID: -1751189318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_250
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 11
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feacbdb3e06303641affdf1e99c86349
+      internalID: -1523326895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_251
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 11
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97a78c35be7b59498581935ea7b8fcb
+      internalID: -2037094620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_252
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 10
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de7e6c19ab9f344e90c87437d8674d0
+      internalID: -2084601624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_253
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 8
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7310fd035f031124998132f7afcf5160
+      internalID: 249525577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_254
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 10
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73339c95b6e338a419fa192fac98e70c
+      internalID: -1950931401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_255
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 9
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142406cd3ae24ad46bfedfa481212e44
+      internalID: -1080635208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_256
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 36
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49ffe2c4fcc15e45be9e3a4ae3cf836
+      internalID: 258014451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_257
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 10
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62f5b3ce5281cd408aabe444a5fe944
+      internalID: 1286697814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_258
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 11
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c8d80a02f50af4690da88aa3489a80
+      internalID: -508814283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ssonic_no_bg_259
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 10
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e845bc8daa88c4f9bed8d66283b0cd
+      internalID: -1033802442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ssonic_no_bg_0: -1310219795
+      ssonic_no_bg_1: -223041455
+      ssonic_no_bg_10: 377754190
+      ssonic_no_bg_100: 309596970
+      ssonic_no_bg_101: -1517208499
+      ssonic_no_bg_102: -1733257410
+      ssonic_no_bg_103: 1228003718
+      ssonic_no_bg_104: 816097858
+      ssonic_no_bg_105: -774811589
+      ssonic_no_bg_106: 42973720
+      ssonic_no_bg_107: -2019620418
+      ssonic_no_bg_108: -2121056421
+      ssonic_no_bg_109: 1116306301
+      ssonic_no_bg_11: 1643310979
+      ssonic_no_bg_110: 1944626019
+      ssonic_no_bg_111: -1731915038
+      ssonic_no_bg_112: -238738103
+      ssonic_no_bg_113: -1859192261
+      ssonic_no_bg_114: 1760092385
+      ssonic_no_bg_115: -554355042
+      ssonic_no_bg_116: -1317164474
+      ssonic_no_bg_117: -1814642254
+      ssonic_no_bg_118: -1184660102
+      ssonic_no_bg_119: -624769403
+      ssonic_no_bg_12: -1509748437
+      ssonic_no_bg_120: 240339814
+      ssonic_no_bg_121: 249673623
+      ssonic_no_bg_122: -581496881
+      ssonic_no_bg_123: 1508412427
+      ssonic_no_bg_124: 293845795
+      ssonic_no_bg_125: 839489355
+      ssonic_no_bg_126: 2064885216
+      ssonic_no_bg_127: -1488146570
+      ssonic_no_bg_128: 1308620537
+      ssonic_no_bg_129: -2044755247
+      ssonic_no_bg_13: 1816493278
+      ssonic_no_bg_130: -798724478
+      ssonic_no_bg_131: -456394759
+      ssonic_no_bg_132: -28993980
+      ssonic_no_bg_133: 705692907
+      ssonic_no_bg_134: -1762440797
+      ssonic_no_bg_135: -14279743
+      ssonic_no_bg_136: 302530825
+      ssonic_no_bg_137: 1427284980
+      ssonic_no_bg_138: 580069896
+      ssonic_no_bg_139: 363962702
+      ssonic_no_bg_14: 51756424
+      ssonic_no_bg_140: -54873818
+      ssonic_no_bg_141: 1898962198
+      ssonic_no_bg_142: -1666691171
+      ssonic_no_bg_143: 941513083
+      ssonic_no_bg_144: 1902075372
+      ssonic_no_bg_145: -901958037
+      ssonic_no_bg_146: 519947310
+      ssonic_no_bg_147: 1388920156
+      ssonic_no_bg_148: 214364771
+      ssonic_no_bg_149: -1028572390
+      ssonic_no_bg_15: 177795013
+      ssonic_no_bg_150: 1111864136
+      ssonic_no_bg_151: 716229323
+      ssonic_no_bg_152: -1148652155
+      ssonic_no_bg_153: 214708488
+      ssonic_no_bg_154: 1308058279
+      ssonic_no_bg_155: 1918533346
+      ssonic_no_bg_156: 237700594
+      ssonic_no_bg_157: 1197320362
+      ssonic_no_bg_158: 1408474421
+      ssonic_no_bg_159: 1894470406
+      ssonic_no_bg_16: 652286818
+      ssonic_no_bg_160: 1513393031
+      ssonic_no_bg_161: -1852060950
+      ssonic_no_bg_162: 666281451
+      ssonic_no_bg_163: 1224993105
+      ssonic_no_bg_164: -1020065284
+      ssonic_no_bg_165: -1897446833
+      ssonic_no_bg_166: -314903453
+      ssonic_no_bg_167: -656327786
+      ssonic_no_bg_168: -1405636551
+      ssonic_no_bg_169: -608819664
+      ssonic_no_bg_17: 828447936
+      ssonic_no_bg_170: -1760960723
+      ssonic_no_bg_171: -1479404880
+      ssonic_no_bg_172: 1930188883
+      ssonic_no_bg_173: 361931998
+      ssonic_no_bg_174: -1623619886
+      ssonic_no_bg_175: 933797663
+      ssonic_no_bg_176: -188580888
+      ssonic_no_bg_177: -29350342
+      ssonic_no_bg_178: -502795221
+      ssonic_no_bg_179: -1541422382
+      ssonic_no_bg_18: 806496972
+      ssonic_no_bg_180: 371145342
+      ssonic_no_bg_181: -485706838
+      ssonic_no_bg_182: -1684507987
+      ssonic_no_bg_183: -1335017012
+      ssonic_no_bg_184: -323131326
+      ssonic_no_bg_185: 501445039
+      ssonic_no_bg_186: -948764925
+      ssonic_no_bg_187: -967216377
+      ssonic_no_bg_188: 73502757
+      ssonic_no_bg_189: 1927646744
+      ssonic_no_bg_19: -843531338
+      ssonic_no_bg_190: -2055852772
+      ssonic_no_bg_191: 29477627
+      ssonic_no_bg_192: 1152056798
+      ssonic_no_bg_193: -176080165
+      ssonic_no_bg_194: 1478828640
+      ssonic_no_bg_195: -1968445076
+      ssonic_no_bg_196: -1944793487
+      ssonic_no_bg_197: -1754203905
+      ssonic_no_bg_198: -901641360
+      ssonic_no_bg_199: 1459871899
+      ssonic_no_bg_2: 1703950082
+      ssonic_no_bg_20: -2059003879
+      ssonic_no_bg_200: 881440463
+      ssonic_no_bg_201: -1165670473
+      ssonic_no_bg_202: -656979101
+      ssonic_no_bg_203: -1842141750
+      ssonic_no_bg_204: 107018210
+      ssonic_no_bg_205: 343223537
+      ssonic_no_bg_206: 1901534165
+      ssonic_no_bg_207: -1730913602
+      ssonic_no_bg_208: -371632804
+      ssonic_no_bg_209: -683831831
+      ssonic_no_bg_21: 1184007980
+      ssonic_no_bg_210: 1070756739
+      ssonic_no_bg_211: -1735080124
+      ssonic_no_bg_212: 1816339478
+      ssonic_no_bg_213: -70598002
+      ssonic_no_bg_214: -1330832030
+      ssonic_no_bg_215: 1146442857
+      ssonic_no_bg_216: -1941542891
+      ssonic_no_bg_217: 656140884
+      ssonic_no_bg_218: 349868110
+      ssonic_no_bg_219: -573603487
+      ssonic_no_bg_22: -1806643237
+      ssonic_no_bg_220: -772787840
+      ssonic_no_bg_221: -1022910204
+      ssonic_no_bg_222: -1848527715
+      ssonic_no_bg_223: 715350072
+      ssonic_no_bg_224: 1349991448
+      ssonic_no_bg_225: 374518680
+      ssonic_no_bg_226: -123090892
+      ssonic_no_bg_227: 693934014
+      ssonic_no_bg_228: 683436089
+      ssonic_no_bg_229: -1104130557
+      ssonic_no_bg_23: 675162022
+      ssonic_no_bg_230: 311967610
+      ssonic_no_bg_231: -102185583
+      ssonic_no_bg_232: 592791202
+      ssonic_no_bg_233: 870556635
+      ssonic_no_bg_234: 1584497981
+      ssonic_no_bg_235: -2050739339
+      ssonic_no_bg_236: 1909721185
+      ssonic_no_bg_237: -312997133
+      ssonic_no_bg_238: 1941210493
+      ssonic_no_bg_239: 659206785
+      ssonic_no_bg_24: 2040073518
+      ssonic_no_bg_240: -1226930119
+      ssonic_no_bg_241: 405267645
+      ssonic_no_bg_242: 1575080325
+      ssonic_no_bg_243: -870881141
+      ssonic_no_bg_244: -731822551
+      ssonic_no_bg_245: 1327729027
+      ssonic_no_bg_246: -1680071815
+      ssonic_no_bg_247: -1540863795
+      ssonic_no_bg_248: -1285934399
+      ssonic_no_bg_249: -1751189318
+      ssonic_no_bg_25: 394502851
+      ssonic_no_bg_250: -1523326895
+      ssonic_no_bg_251: -2037094620
+      ssonic_no_bg_252: -2084601624
+      ssonic_no_bg_253: 249525577
+      ssonic_no_bg_254: -1950931401
+      ssonic_no_bg_255: -1080635208
+      ssonic_no_bg_256: 258014451
+      ssonic_no_bg_257: 1286697814
+      ssonic_no_bg_258: -508814283
+      ssonic_no_bg_259: -1033802442
+      ssonic_no_bg_26: 1340960563
+      ssonic_no_bg_27: -1482316444
+      ssonic_no_bg_28: -283456651
+      ssonic_no_bg_29: -1278443047
+      ssonic_no_bg_3: 33290294
+      ssonic_no_bg_30: -791704523
+      ssonic_no_bg_31: 2007187564
+      ssonic_no_bg_32: 1465346180
+      ssonic_no_bg_33: 1385549177
+      ssonic_no_bg_34: -1166295737
+      ssonic_no_bg_35: -1938716817
+      ssonic_no_bg_36: -1386585964
+      ssonic_no_bg_37: 512673316
+      ssonic_no_bg_38: -381512910
+      ssonic_no_bg_39: 677547276
+      ssonic_no_bg_4: -1223624780
+      ssonic_no_bg_40: 522544976
+      ssonic_no_bg_41: -2101014070
+      ssonic_no_bg_42: 624508942
+      ssonic_no_bg_43: -1050201100
+      ssonic_no_bg_44: 779047380
+      ssonic_no_bg_45: -153762079
+      ssonic_no_bg_46: -1054203001
+      ssonic_no_bg_47: -1682928603
+      ssonic_no_bg_48: -1032174942
+      ssonic_no_bg_49: -436707467
+      ssonic_no_bg_5: 1936804924
+      ssonic_no_bg_50: 693496423
+      ssonic_no_bg_51: 1141401813
+      ssonic_no_bg_52: -1838202687
+      ssonic_no_bg_53: 1659056181
+      ssonic_no_bg_54: 1079640877
+      ssonic_no_bg_55: 893505733
+      ssonic_no_bg_56: 1645847432
+      ssonic_no_bg_57: 63713017
+      ssonic_no_bg_58: 442071587
+      ssonic_no_bg_59: 2048463389
+      ssonic_no_bg_6: 1215878804
+      ssonic_no_bg_60: -1701960479
+      ssonic_no_bg_61: -971758874
+      ssonic_no_bg_62: -1020620890
+      ssonic_no_bg_63: 1144863532
+      ssonic_no_bg_64: -2019066187
+      ssonic_no_bg_65: -1888892641
+      ssonic_no_bg_66: 1347059266
+      ssonic_no_bg_67: -1543069990
+      ssonic_no_bg_68: 1283985803
+      ssonic_no_bg_69: 1449167975
+      ssonic_no_bg_7: 1288698536
+      ssonic_no_bg_70: 954875097
+      ssonic_no_bg_71: 81430529
+      ssonic_no_bg_72: -437064417
+      ssonic_no_bg_73: -470732096
+      ssonic_no_bg_74: -806104119
+      ssonic_no_bg_75: 1224806272
+      ssonic_no_bg_76: 1176949146
+      ssonic_no_bg_77: 643835809
+      ssonic_no_bg_78: 697185817
+      ssonic_no_bg_79: 1283629793
+      ssonic_no_bg_8: -718080230
+      ssonic_no_bg_80: 61004750
+      ssonic_no_bg_81: 346835863
+      ssonic_no_bg_82: -1467557033
+      ssonic_no_bg_83: -1862491559
+      ssonic_no_bg_84: 560166854
+      ssonic_no_bg_85: -169331457
+      ssonic_no_bg_86: 185380989
+      ssonic_no_bg_87: 1580336319
+      ssonic_no_bg_88: 1377124276
+      ssonic_no_bg_89: -1145350613
+      ssonic_no_bg_9: -498030931
+      ssonic_no_bg_90: -1093598721
+      ssonic_no_bg_91: 1081883445
+      ssonic_no_bg_92: -1507778932
+      ssonic_no_bg_93: -247036303
+      ssonic_no_bg_94: 1106703646
+      ssonic_no_bg_95: -877092846
+      ssonic_no_bg_96: -504257306
+      ssonic_no_bg_97: -796895201
+      ssonic_no_bg_98: -1447411769
+      ssonic_no_bg_99: -1279676244
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
